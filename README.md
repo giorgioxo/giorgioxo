@@ -1,6 +1,7 @@
-# 💫 About Me:
-- 🔭 I’m currently working on [Investing](investing.tbccapital.ge)<br><br>- 🌱 I’m currently learning **C#, C++**<br><br>- 💬 Ask me about **Angular, React-Native, React**<br><br>- ⚡ Fun fact **I don't use meta networks**
 
+🔭 I’m currently working on [Investing](investing.tbccapital.ge)<br><br>
+🌱 I’m currently learning **C#, C++**<br><br>
+⚡ Fun fact **I don't use meta networks**
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -17,11 +18,3 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Giorgioxo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giorgioxo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/giorgioxo) 
-
-  
