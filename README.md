@@ -3,7 +3,6 @@
 <p align="center">
   <b>software engineer | angular developer</b><br/>
   <a href="mailto:khokhonishviligi@gmail.com">khokhonishviligi@gmail.com</a> |
-  <a href="tel:+995593511362">+995 593 511 362</a> |
   <a href="https://linkedin.com/in/giorgi-kho" target="_blank">linkedin.com/in/giorgi-kho</a>
 </p>
 
