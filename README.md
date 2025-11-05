@@ -39,34 +39,6 @@ i enjoy creating clean, scalable architectures and maintainable codebases that a
 
 ---
 
-### 🧠 experience  
-
-**🧩 upwork — software engineer (sep 2025 – present)**  
-- built responsive ui solutions with angular & react  
-- developed backend apis using node.js & nestjs  
-- designed data models, optimized dbs, and automated deployments via ci/cd  
-- managed deployments on aws, azure & vercel  
-
-**🏦 tbc bank — senior angular developer (feb 2024 – sep 2025)**  
-- migrated app to angular 18 with standalone components, signals, and defer blocks  
-- restructured routing and modular architecture for scalability  
-- coordinated api contracts and delivery with vendor teams  
-- implemented error monitoring and debugging pipelines  
-
-**💡 omedia — middle angular developer (oct 2022 – feb 2024)**  
-- collaborated on agile sprints, testing and deployment  
-- managed app state with ngrx for clean reactive data flow  
-- set up frontend ci/cd and automated delivery pipelines  
-- optimized async logic with rxjs for clarity and performance  
-
-**🎓 itstep academy — junior angular developer (jul 2020 – oct 2022)**  
-- built reactive forms with dynamic validation  
-- integrated restful apis for frontend-backend communication  
-- designed ui with angular material & cdk  
-- followed solid principles and ood best practices  
-
----
-
 ### 🛠️ additional skills  
 **tools:** jira, confluence, trello, postman, insomnia  
 **backend:** node.js, express.js, nestjs, next.js  
