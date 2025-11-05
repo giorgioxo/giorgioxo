@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on [Investing](investing.tbccapital.ge)<br><br>
+🔭 I’m currently working on [Investing](https://investing.tbccapital.ge)<br><br>
 🌱 I’m currently learning **C#, C++**<br><br>
 ⚡ Fun fact **I don't use meta networks**
 
