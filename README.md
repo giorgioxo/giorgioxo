@@ -39,13 +39,6 @@ i enjoy creating clean, scalable architectures and maintainable codebases that a
 
 ---
 
-### 🛠️ additional skills  
-**tools:** jira, confluence, trello, postman, insomnia  
-**backend:** node.js, express.js, nestjs, next.js  
-**databases:** sqlite, mysql, mongodb  
-
----
-
 ### 📊 github stats  
 
 <p align="center">
