@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 about me  
-angular-focused software engineer with 5+ years of experience building responsive, high-performance web applications.  
+angular-focused software engineer
 familiar with the full dev flow — backend apis, database design, cicd pipelines, and cloud deployment (aws, azure, vercel).  
 i enjoy creating clean, scalable architectures and maintainable codebases that actually make sense.  
 
