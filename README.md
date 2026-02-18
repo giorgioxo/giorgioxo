@@ -13,10 +13,6 @@ angular-focused software engineer
 familiar with the full dev flow — backend apis, database design, cicd pipelines, and cloud deployment (aws, azure, vercel).  
 i enjoy creating clean, scalable architectures and maintainable codebases that actually make sense.  
 
-🔭 currently working on [investing](https://investing.tbccapital.ge)  
-🌱 learning **c#**, **c++**  
-⚡ fun fact — i don’t use meta networks  
-
 ---
 
 ### 💻 tech stack  
@@ -25,7 +21,6 @@ i enjoy creating clean, scalable architectures and maintainable codebases that a
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -38,9 +33,3 @@ i enjoy creating clean, scalable architectures and maintainable codebases that a
 
 ---
 
-### 📊 github stats  
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Giorgioxo&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giorgioxo&theme=dark&hide_border=false&layout=compact" />
-</p>
