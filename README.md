@@ -1,32 +1,37 @@
-<h1 align="center">👋 hey, i'm Giorgi </h1>
+
+<h1 align="center">👋 hey, i'm Giorgi</h1>
 
 <p align="center">
-  <b>NodeJS engineer | Angular developer</b><br/>
-  <a href="mailto:khokhonishviligi@gmail.com">khokhonishviligi@gmail.com</a> |
-  <a href="https://linkedin.com/in/giorgi-kho" target="_blank">linkedin.com/in/giorgi-kho</a>
+  Angular + Node.js engineer<br/>
+  I build things that scale
 </p>
 
 ---
 
-### 🚀 about me  
-angular-focused software engineer
-familiar with the full dev flow — backend apis, database design, cicd pipelines, and cloud deployment (aws, azure, vercel).  
----
+### 🧠 what I do
 
-### 💻 tech stack  
-<p>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+- build structured Angular apps with clean state management  
+- design APIs and backend systems in Node.js  
+- think about architecture before writing code  
+- care about performance, scalability and simplicity  
 
 ---
 
+### ⚙️ currently into
+
+- modern Angular (signals, standalone, reactive patterns)
+- system design & backend architecture
+- cloud-ready apps (AWS, CI/CD)
+- building things from scratch just to understand them better
+
+---
+
+### 🛠 stack
+
+Angular • TypeScript • Node.js • Express  
+PostgreSQL • MongoDB • AWS • Azure  
+NgRx • RxJS • Git • Figma  
+
+---
+
+> clean code. clear structure. no magic.
