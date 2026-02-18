@@ -34,4 +34,4 @@ NgRx • RxJS • Git • Figma
 
 ---
 
-> clean code. clear structure. no magic.
+> clean code. clear structure. no magic >
